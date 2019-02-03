@@ -1,0 +1,421 @@
+Data collected by OpenAddresses (http://openaddresses.io).
+
+us/ct/city_of_haddam
+Website: http://www.haddam.org/
+License: Unknown
+Required attribution: City of Haddam
+
+us/ct/city_of_hartford
+Website: Unknown
+License: Unknown
+Required attribution: Ciy of Hartford
+
+us/ct/city_of_lyme
+Website: http://townlyme.org/
+License: Unknown
+Required attribution: City of Lyme
+
+us/ct/city_of_manchester
+Website: Unknown
+License: Unknown
+Required attribution: City of Manchester
+
+us/ct/city_of_waterbury
+Website: http://gis.waterburyct.org/GIS/index.asp
+License: Indemnification
+Required attribution: Yes
+
+us/ct/city_of_watertown
+Website: http://www.watertownct.org/
+License: Unknown
+Required attribution: City of Watertown
+
+us/ct/statewide
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ct/town_of_avon
+Website: http://www.town.avon.ct.us/Public_Documents/index
+License: Unknown
+Required attribution: City of Avon
+
+us/ct/town_of_easton_monroe
+Website: http://www.eastonct.gov/
+License: Unknown
+Required attribution: Yes
+
+us/ct/town_of_fairfield
+Website: https://maps.gbrct.org/fairfieldgis/viewer.html
+License: Unknown
+Required attribution: Town of Fairfield
+
+us/ct/town_of_groton
+Website: Unknown
+License: Unknown
+Required attribution: City of Groton
+
+us/ct/town_on_trumbull
+Website: http://www.trumbull-ct.gov/
+License: Unknown
+Required attribution: Yes
+
+us/ma/city_of_boston
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ma/city_of_cambridge
+Website: https://github.com/cambridgegis/cambridgegis_data/
+License: Unknown
+Required attribution: Yes
+
+us/ma/statewide
+Website: http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/
+License: Public Domain
+Required attribution: Office of Geographic Information (MassGIS), Commonwealth of Massachusetts, MassIT
+
+us/ma/town_of_newton
+Website: https://github.com/NewtonMAGIS/GISData/
+License: Unknown
+Required attribution: Yes
+
+us/me/statewide
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nh/city_of_nashua
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nh/jaffrey
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nh/statewide
+Website: http://www.granit.unh.edu/data/onlinemapservices/mapservicesoverview.html
+License: Unknown
+Required attribution: Yes
+
+us/nj/cape_may
+Website: http://www.capemaycountyims.net/
+License: Unknown
+Required attribution: Yes
+
+us/nj/monmouth
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nj/morris
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/nj/statewide
+Website: https://njgin.state.nj.us/NJ_NJGINExplorer/ShowMetadata.jsp?docId={EC181B3D-4D15-11E1-A2E4-0003BA2C919E}
+License: Unknown
+Required attribution: Yes
+
+us/ny/broome
+Website: http://www.bcgis.com/website/gisweb/portal.htm?tab=requests
+License: http://broomegis.co.broome.ny.us/website/gisweb/gisdata.htm
+Required attribution: Yes
+
+us/ny/city_of_new_york
+Website: https://data.cityofnewyork.us/City-Government/NYC-Address-Points/g6pj-hd8k
+License: Unknown
+Required attribution: Yes
+
+us/ny/city_of_rochester
+Website: http://maps.cityofrochester.gov/propinfo/
+License: Unknown
+Required attribution: Yes
+
+us/ny/erie
+Website: http://gis2.erie.gov/HTML5/ErieCountyNY/
+License: Unknown
+Required attribution: Yes
+
+us/ny/orange
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ny/statewide
+Website: http://gis.ny.gov/gisdata/inventories/details.cfm?DSID=921
+License: Unknown
+Required attribution: Yes
+
+us/ny/sullivan
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/ny/westchester
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/adams
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/allegheny
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/armstrong
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/beaver
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/bedford
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/berks
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/blair
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/bucks
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/butler
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/cambria
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/cameron
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/centre
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/chester
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/clearfield
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/clinton
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/columbia
+Website: http://gis.columbiapa.org/mapsonline/default.aspx
+License: Unknown
+Required attribution: Yes
+
+us/pa/crawford
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/cumberland
+Website: http://www.ccpa.net/index.aspx?NID=2080
+License: Unknown
+Required attribution: Yes
+
+us/pa/dauphin
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/elk
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/erie
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/fayette
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/forest
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/franklin
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/fulton
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/juniata
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/lackawanna
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/lancaster
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/lawrence
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/lehigh
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/lycoming
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/mckean
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/mercer
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/mifflin
+Website: http://www.co.mifflin.pa.us/dept/GIS/Pages/GIS-Data-Agreement.aspx
+License: Unknown
+Required attribution: Yes
+
+us/pa/monroe
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/northampton
+Website: https://gis.northamptoncounty.org/public/
+License: Unknown
+Required attribution: Yes
+
+us/pa/northumberland
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/perry
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/philadelphia
+Website: Unknown
+License: https://github.com/CityOfPhiladelphia/OIT-geodata/blob/master/Open%20Address%20Data/Readme.md
+Required attribution: Yes
+
+us/pa/pike
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/potter
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/snyder
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/somerset
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/sullivan
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/tioga
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/union
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/venango
+Website: Unknown
+License: Unknown
+Required attribution: Yes
+
+us/pa/wayne
+Website: http://wcplanninggis.maps.arcgis.com/apps/webappviewer/index.html
+License: Unknown
+Required attribution: Yes
+
+us/pa/york
+Website: http://www.ycpc.org/divisions/information-systems.html
+License: Unknown
+Required attribution: Yes
+
+us/ri/providence
+Website: https://data.providenceri.gov/Neighborhoods/Providence-Parcel-Boundaries-2015/29is-vppi
+License: Unknown
+Required attribution: Yes
+
+us/ri/statewide
+Website: http://www.rigis.org/data/e911Sites
+License: http://www.rigis.org/opendata
+Required attribution: Yes
+
+us/vt/statewide
+Website: http://vcgi.vermont.gov/warehouse/theme_index
+License: http://vcgi.vermont.gov/sites/vcgi/files/warehouse/VCGI_Warranty_Copyright_Notice_2013.pdf
+Required attribution: VT Enhanced 911 Board, VCGI
