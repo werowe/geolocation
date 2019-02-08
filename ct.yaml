@@ -1,0 +1,16 @@
+consumer_key : 'xxxxxxx'
+consumer_key: 'xxxxxxx'
+consumer_secret: 'xxxxxxx'
+access_token: 'xxxxxxx'
+access_token_secret: 'xxxxxxx'
+
+bottomLongitude: -73.504389 
+bottomLatitude: 41.222582
+topLongitude: -71.804192 
+topLatitude: 42.026518 
+
+track: ['Trump', 'ocean', 'Democrat', 'Republican', 'gardening','BMCSoftware', 'school', 'CT', '#metoo', 'governor', 'Iran']
+
+languages: ['en', 'es', 'fr']
+
+KafkaTopic: 'tweets'
